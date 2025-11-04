@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Bekzod",
+        "email": "bek@gamil.com",
+        "is_active": false
+    },
+    {
+        "name": "Azizbek",
+        "email": "aziz@gamail.com",
+        "is_active": false
+    },
+    {
+        "username": "Bekzod",
+        "email": "bek@gmail.com",
+        "is_active": false
+    },
+    {
+        "username": "Azizbek",
+        "email": "aziz@gmail.com",
+        "is_active": false
+    },
+    {
+        "username": "Bekzod",
+        "email": "bek@gmail.com",
+        "is_active": false
+    },
+    {
+        "username": "Azizbek",
+        "email": "aziz@gmail.com",
+        "is_active": false
+    },
+    {
+        "username": "Muhammad Ali",
+        "email": "ali@gmail.com",
+        "is_active": true
+    }
+]
